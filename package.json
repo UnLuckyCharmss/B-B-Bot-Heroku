@@ -1,14 +1,12 @@
 {
-  "name": "Beer&Beagles Bot",
-  "version": "0.0.1",
-  "description": "Beer&Beagles Discord bot",
+  "name": "B&B bot",
+  "version": "1.0.0",
+  "description": "",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "test": "node bot.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "discord.js": "11.4.2",
+    "discord.js": "11.4.2"
   }
 }
