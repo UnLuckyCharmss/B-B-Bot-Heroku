@@ -1,15 +1,15 @@
 {
-  "name": "B&B bot",
+  "name": "discordbot",
   "version": "1.0.0",
   "description": "",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
-    "test": "node bot.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines": {
-    "node": "8.11.4"
-  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "discord.js": "11.4.2"
+    "discord.js": "^11.4.2",
+    "git": "^0.1.5"
   }
 }
